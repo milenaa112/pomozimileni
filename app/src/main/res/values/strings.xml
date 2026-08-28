@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kolokvijum1</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="recipe">Recipe</string>
+    <string name="naziv_recepta">Naziv recepta</string>
+    <string name="vreme_pripreme">Vreme pripreme (min)</string>
+    <string name="omiljeno">Omiljeno</string>
+    <string name="potvrdi">Potvrdi</string>
+    <string name="otkazi">Otkaži</string>
+    <string name="novi_recept">Novi recept</string>
+    <string name="popuni_polja">Popuni sva polja</string>
+    <string name="kamera_dostupna">Kamera dostupna</string>
+</resources>
